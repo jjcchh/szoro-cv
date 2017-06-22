@@ -97,7 +97,7 @@ Lorince, J., **Zorowitz, S.**, Murdock, J., & Todd, P. M. (2015). The Wisdom of 
 Lorince, J., **Zorowitz, S.**, Murdock, J., & Todd, P. M. (2014). Supertagger behavior in building folksonomies. In Proceedings of the 2014 ACM conference on Web science (pp. 129–138). ACM.
  
 ## Posters
-Widge, A. S., **Zorowitz, S.**, Afzal, A., Farnes, K., Paulk, A. C., Miller, E. K., Deckersbach, T., Cash, S. S., Dougherty, D. D. (2016). Deep Brain Stimulation of Striatal White Matter Alters Top-Down Control Signals in Cingulate and Prefrontal Cortices. Poster to be presented at the American College of Neuropsychopharmacology, Hollywood, Florida.
+Widge, A. S., **Zorowitz, S.**, Afzal, A., Farnes, K., Paulk, A. C., Miller, E. K., Deckersbach, T., Cash, S. S., Dougherty, D. D. (2016). Deep Brain Stimulation of Striatal White Matter Alters Top-Down Control Signals in Cingulate and Prefrontal Cortices. Presented at the American College of Neuropsychopharmacology, Hollywood, Florida.
  
 Sitnikova, T. A., **Zorowitz, S.**, Afzal, A., Gilmour, A. L., Ellard, K. K., Herrington, T. M., … Deckersbach, T. (2016). Oscillatory synchronization enables dynamic information processing to resolve reward seeking vs. risk avoidance conflict. Poster presented at the Society for Neuroscience, San Diego, CA.
  
