@@ -14,6 +14,11 @@ Supported by Centennial Fellowship
 ##### September, 2010 - May, 2014
 Cumulative GPA: 3.91, Phi Beta Kappa, General University Honors
 
+## Coursework and Skills
+* Courses: Bayesian Data Analysis; Choice Behavior; Neuroeconomics; Social Network Analysis in Public Health Programs; Infectious Disease Dynamics: Theory and Computation 
+* Software: Stan, JAGS, Freesurfer, MNE, Psychtoolbox, Mechanical Turk
+* Languages: Python, R, Matlab, Unix
+
 ## Research
 ### Clinical Research Coordinator - [MGH DARPA SUBNETS](https://transformdbs.partners.org/?q=transform-dbs), Massachusetts General Hospital
 ##### June, 2014 - May, 2017
@@ -44,10 +49,21 @@ With John Kruschke:
 * Assisted in follow-up experiments analyzing the role of luck and chance in prosocial judgments and punitive behaviors
 in players of a modified public goods game.
 * Learned to analyze collected data with Bayesian modeling using R and JAGS.
-* Performed literature reviews and assisted in preparing grant applications and IRBproposals
+* Performed literature reviews and assisted in preparing grant applications and IRB proposals
 
+### Research Assistant - Johns Hopkins Hospital
+##### July, 2011 - January, 2012
+With Pegah Touradji
+* Administered full battery of neuropsychological tests to patients at risk for early-onset dementia.
+* Assisted in participant recruitment, database management, literature reviews; and manuscript writing.
+ 
 ## Teaching
-### Invited Speaker - [Why & How Series](https://gate.nmr.mgh.harvard.edu/wiki/whynhow/index.php/Main_Page), Martinos Center 
+### Lecturer - Intro to Python Workshop, Columbia University
+##### June, 2017
+* Designed and taught a two-week (6 evening) Intro to Python for Data Science workshop for the [Quantitative Methods in the Social Sciences](http://www.qmss.columbia.edu/) Masters Program at Columbia University.
+* Workshop materials covered included core Python, matrix and DataFrame manipulation, machine learning, text processing, API calls and webscraping, and network analysis. [(Github)](https://github.com/szorowi1/qmss2017)
+
+### Lecturer - [Why & How Series](https://gate.nmr.mgh.harvard.edu/wiki/whynhow/index.php/Main_Page), Martinos Center 
 ##### November 2016
 * Invited to present an Introduction to Scientific Python lecture as part of a tutorial lecture series.
 * Designed novel materials to introduce Python for neuroscience, including examples on statistics, visualization, and imaging data manipulation.
