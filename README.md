@@ -64,7 +64,7 @@ With Pegah Touradji
 * Workshop materials covered included core Python, matrix and DataFrame manipulation, machine learning, text processing, API calls and webscraping, and network analysis. [(Github)](https://github.com/szorowi1/qmss2017)
 
 ### Lecturer - [Why & How Series](https://gate.nmr.mgh.harvard.edu/wiki/whynhow/index.php/Main_Page), Martinos Center 
-##### November 2016
+##### November, 2016
 * Invited to present an Introduction to Scientific Python lecture as part of a tutorial lecture series.
 * Designed novel materials to introduce Python for neuroscience, including examples on statistics, visualization, and imaging data manipulation.
 
