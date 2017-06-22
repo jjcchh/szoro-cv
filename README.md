@@ -58,9 +58,9 @@ With Pegah Touradji
 * Assisted in participant recruitment, database management, literature reviews; and manuscript writing.
  
 ## Teaching
-### Lecturer - Intro to Python Workshop, Columbia University
+### Lecturer - Intro to Python Workshop, [QMSS](http://www.qmss.columbia.edu/), Columbia University
 ##### June, 2017
-* Designed and taught a two-week (6 evening) Intro to Python for Data Science workshop for the [Quantitative Methods in the Social Sciences](http://www.qmss.columbia.edu/) Masters Program at Columbia University.
+* Designed and taught a two-week (6 evening) Intro to Python for Data Science workshop for the Quantitative Methods in the Social Sciences Masters Program at Columbia University.
 * Workshop materials covered included core Python, matrix and DataFrame manipulation, machine learning, text processing, API calls and webscraping, and network analysis. [(Github)](https://github.com/szorowi1/qmss2017)
 
 ### Lecturer - [Why & How Series](https://gate.nmr.mgh.harvard.edu/wiki/whynhow/index.php/Main_Page), Martinos Center 
@@ -78,3 +78,44 @@ With Pegah Touradji
 ##### September, 2013 - May, 2014
 * Coached sixundergraduate students in effective academic habits through Office of Academic Advising.
 * Worked with students to improve organizational abilities, note-taking skills, schedule planning, and study habits.
+
+## Publications
+Widge, A. S., Ellard, K. K., Paulk, A. C., Basu, I., Yousefi, A., **Zorowitz, S.**, … Eskandar, E. N. (2016). Treating refractory mental illness with closed-loop brain stimulation: Progress towards a patient-specific transdiagnostic approach. Experimental Neurology. http://doi.org/10.1016/j.expneurol.2016.07.021
+ 
+Klein, E., Goering, S., Gagne, J., Shea, C. V., Franklin, R., **Zorowitz, S.**, ... & Widge, A. S. (2016). Brain-computer interface-based control of closed-loop brain stimulation: attitudes and ethical considerations. Brain-Computer Interfaces, 3(3), 140-148.
+ 
+Rodriguez-Hart, C., Liu, H., Nowak, R. G., Orazulike, I., **Zorowitz, S.**, Crowell, T. A., … Charurat, M. (2016). Serosorting and Sexual Risk for HIV Infection at the Ego-Alter Dyadic Level: An Egocentric Sexual Network Study Among MSM in Nigeria. AIDS and Behavior. http://doi.org/10.1007/s10461-016-1311-3
+ 
+Widge, A. S., Licon, E., **Zorowitz, S.**, Corse, A., Arulpragasam, A. R., Camprodon, J. A., … Dougherty, D. D. (2016). Predictors of Hypomania During Ventral Capsule/Ventral Striatum Deep Brain Stimulation. The Journal of Neuropsychiatry and Clinical Neurosciences, 28(1), 38–44.
+ 
+Widge, A. S., **Zorowitz, S.**, Link, K., Miller, E. K., Deckersbach, T., Eskandar, E. N., & Dougherty, D. D. (2015). Ventral Capsule/Ventral Striatum Deep Brain Stimulation Does Not Consistently Diminish Occipital Cross-Frequency Coupling. Biological Psychiatry. http://doi.org/10.1016/j.biopsych.2015.10.029
+ 
+Franklin, R., **Zorowitz, S.**, Corse, A. K., Widge, A. S., & Deckersbach, T. (2015). Lurasidone for the treatment of bipolar depression: an evidence-based review. Neuropsychiatric Disease and Treatment, 11, 2143–2152.
+ 
+Lorince, J., **Zorowitz, S.**, Murdock, J., & Todd, P. M. (2015). The Wisdom of the Few? “Supertaggers” in Collaborative Tagging Systems. The Journal of Web Science, 1(1). 
+ 
+Lorince, J., **Zorowitz, S.**, Murdock, J., & Todd, P. M. (2014). Supertagger behavior in building folksonomies. In Proceedings of the 2014 ACM conference on Web science (pp. 129–138). ACM.
+ 
+## Posters
+Widge, A. S., **Zorowitz, S.**, Afzal, A., Farnes, K., Paulk, A. C., Miller, E. K., Deckersbach, T., Cash, S. S., Dougherty, D. D. (2016). Deep Brain Stimulation of Striatal White Matter Alters Top-Down Control Signals in Cingulate and Prefrontal Cortices. Poster to be presented at the American College of Neuropsychopharmacology, Hollywood, Florida.
+ 
+Sitnikova, T. A., **Zorowitz, S.**, Afzal, A., Gilmour, A. L., Ellard, K. K., Herrington, T. M., … Deckersbach, T. (2016). Oscillatory synchronization enables dynamic information processing to resolve reward seeking vs. risk avoidance conflict. Poster presented at the Society for Neuroscience, San Diego, CA.
+ 
+**Zorowitz, S.**, Afzal, A., Deckersbach, T., Ellard., K. K., Gilmour, A. L., Dougherty, D. D., Eskandar, E. N., Widge, A. W. (2016). Bayesian State-Space Modeling of Reversal Learning. Poster presented at the Society for Neuroscience, San Diego, CA.
+ 
+Afzal, A., **Zorowitz, S.**, Ellard, K. K., Widge, A. S., Gilmour, A. L., Dougherty, D. D., Eskandar, E. N., Deckersbach, T. Neural Correlates of Approach-Avoidance Behavior in Decision Making. Poster presented at the Society for Neuroscience, San Diego, CA.
+ 
+**Zorowitz, S.**, Afzal, A., Deckersbach, T., Ellard., K. K., Gilmour, A. L., Dougherty, D. D., Eskandar, E. N., Widge, A. W. (2016). Bayesian State-Space Modeling of Reversal Learning. Poster presented at the Society of Biological Psychiatry, Atlanta, GA.
+ 
+Afzal, A., **Zorowitz, S.**, Ellard, K. K., Widge, A. S., Gilmour, A. L., Dougherty, D. D., Eskandar, E. N., Deckersbach, T. Neural Correlates of Approach-Avoidance Behavior in Decision Making. Poster presented at the Society of Biological Psychiatry, Atlanta, GA.
+
+**Zorowitz, S.**, Franklin, R., Kunwar, P. S., Greve, D. N., Block, S., Moran, L. R., Schwartz, C. E. (2016). A High-reactive Temperamental Profile in 4 Month-Old Infants Predicts Reduced Amygdala Volume and Increased Amygdala Reactivity in Adults. Poster presented at the Society of Biological Psychiatry, Atlanta, GA.**
+
+Widge, A. S., **Zorowitz, S.**, Tang, W., Miller, E. K., Deckersbach, T., & Dougherty, D. D. (2015). Behavioral and neural biomarkers of improved top-down control mediate clinical response to ventral capsule/ventral striatum deep brain stimulation in major depression. Poster presented at the Society of Biological Psychiatry, Toronto, Canada.
+
+**Zorowitz, S.**, Wilson, C., Kruschke, J. K. (2014). Counterfactual Reasoning and Distributive Justice. Poster presented at Provost’s Undergraduate Research Awards Ceremony, Johns Hopkins University, Baltimore, MD.
+ 
+## Awards
+* 2016 Top Poster in Translational Research (Society of Biological Psychiatry)
+* 2013-2014 Provost’s Undergraduate Research Award (Johns Hopkins University)
+* 2012-2013 Cognitive Science Award for Outstanding Research (Indiana University)
