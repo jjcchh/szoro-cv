@@ -17,9 +17,9 @@ Cumulative GPA: 3.91, Phi Beta Kappa, General University Honors
 ## Research
 ### Clinical Research Coordinator - [MGH DARPA SUBNETS](https://transformdbs.partners.org/?q=transform-dbs), Massachusetts General Hospital
 ##### June, 2014 - May, 2017
-* Devised hierarchical Bayesian model of [decision making conflict](https://github.com/szorowi1/JNeurosci_ARC), integrating both choice and reaction time data, for an approach/avoidance gambling task and applied the resulting subject-specific predictors to characterize conflict resolution in neural circuitry in fMRI & EEG datasets.
+* Devised hierarchical Bayesian model of decision making conflict, integrating both choice and reaction time data, for an approach/avoidance gambling task and applied the resulting subject-specific predictors to characterize conflict resolution in neural circuitry in fMRI & EEG datasets. [(Github)](https://github.com/szorowi1/JNeurosci_ARC)
+* Lead analyst on study investigating the neural correlates of diminished cautiousness during a Stroop-like task in patients undergoing deep-brain stimulation for major depressive disorder using source-localized EEG data. [(Github)](https://github.com/szorowi1/EMOTE-afMSIT)
 * Adapted Bayesian state space models of associative learning to a reversal learning paradigm and demonstrated its efficacy in improving fMRI signal-to-noise ratio.
-* Lead analyst on [study](https://github.com/szorowi1/EMOTE-afMSIT) investigating the neural correlates of diminished cautiousness during a Stroop-like task in patients undergoing deep-brain stimulation for major depressive disorder using source-localized EEG data.
 * Created tutorials and other guides for lab members on numerous technical and statistical topics, including fMRI and M/EEG analysis, non-parametric permutation testing, and graph theory.
 
 ### Research Assistant, - Johns Hopkins University
