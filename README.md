@@ -1,0 +1,1 @@
+# szoro_cv
