@@ -27,7 +27,7 @@ Cumulative GPA: 3.91, Phi Beta Kappa, General University Honors
 * Adapted Bayesian state space models of associative learning to a reversal learning paradigm and demonstrated its efficacy in improving fMRI signal-to-noise ratio.
 * Created tutorials and other guides for lab members on numerous technical and statistical topics, including fMRI and M/EEG analysis, non-parametric permutation testing, and graph theory.
 
-### Research Assistant, - Johns Hopkins University
+### Research Assistant - Johns Hopkins University
 ##### June, 2013 - May, 2014
 With Colin Wilson & John Kruschke:
 * Designed a novel paradigm examining the role of prospective and retrospective counterfactual reasoning in judgments of responsibility, blame, and economic fairness, and analyzed subsequent data using simple computational models.
