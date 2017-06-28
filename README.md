@@ -2,8 +2,7 @@
 
 ## Contact
 Email: [szorowi1@gmail.com](mailto:szorowi1@gmail.com) | [zorowitz@princeton.edu](mailto:zorowitz@princeton.edu)
-<br>Github: [https://github.com/szorowi1](https://github.com/szorowi1)
-<br>Twitter: [https://twitter.com/szorowi1](https://twitter.com/szorowi1)
+<br>Websites: [Google Scholar](https://scholar.google.com/citations?user=3285IsEAAAAJ&hl=en) | [Github](https://github.com/szorowi1) | [Twitter](https://twitter.com/szorowi1)
 
 ## Education
 ### Princeton University - Ph.D. Candidate in Neuroscience
