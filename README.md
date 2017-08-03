@@ -39,7 +39,7 @@ music-archiving community (Last.fm).
 * Quantified user expertise in online tagging behaviors using the HITS and SPEAR algorithms.
 
 With Marc Boulay:
-* Investigated social and sexual network risks of HIVstatus in MSM populations in Abuja and Lagos, Nigeria.
+* Investigated social and sexual network risks of HIV status in MSM populations in Abuja and Lagos, Nigeria.
 * Preprocessed data using multiple imputations and conducted exploratory factor analysis and multilevel modeling.
 
 ### Visiting Undergraduate Research Fellow - Indiana University
@@ -54,7 +54,7 @@ in players of a modified public goods game.
 ##### July, 2011 - January, 2012
 With Pegah Touradji
 * Administered full battery of neuropsychological tests to patients at risk for early-onset dementia.
-* Assisted in participant recruitment, database management, literature reviews; and manuscript writing.
+* Assisted in participant recruitment, database management, literature reviews, and manuscript writing.
  
 ## Teaching
 ### Lecturer - Intro to Python Workshop, [QMSS](http://www.qmss.columbia.edu/), Columbia University
@@ -71,11 +71,11 @@ With Pegah Touradji
 ##### Summers 2015, 2016
 * Volunteered twice as mentor for student (initials: KL) as part of the Harvard CCRC Summer Internship program.
 * Oversaw student KL in her efforts to analyze differences in EEG resting state spectral content in patients with DBS turned on and off.
-* Guided returned student KLin her efforts to apply per-trial estimates of decision conflict to EEG data from an approach/avoidance gambling task.
+* Guided returned student KL in her efforts to apply per-trial estimates of decision conflict to EEG data from an approach-avoidance gambling task.
 
 ### Study Consultant - Johns Hopkins University 
 ##### September, 2013 - May, 2014
-* Coached sixundergraduate students in effective academic habits through Office of Academic Advising.
+* Coached six undergraduate students in effective academic habits through Office of Academic Advising.
 * Worked with students to improve organizational abilities, note-taking skills, schedule planning, and study habits.
 
 ## Publications
