@@ -79,7 +79,9 @@ With Pegah Touradji
 * Worked with students to improve organizational abilities, note-taking skills, schedule planning, and study habits.
 
 ## Publications
-Widge, A. S., Ellard, K. K., Paulk, A. C., Basu, I., Yousefi, A., **Zorowitz, S.**, … Eskandar, E. N. (2016). Treating refractory mental illness with closed-loop brain stimulation: Progress towards a patient-specific transdiagnostic approach. Experimental Neurology. http://doi.org/10.1016/j.expneurol.2016.07.021
+Widge, A. S., **Zorowitz, S.**, Eskandar, E. N., Deckersbach, T., Miller, E. K., Dougherty, D. D. (2017). Internal Capsule Electrical Stimulation Enhances Cognitive Control and Prefrontal Cortex Function in Humans. Submitted.
+
+Widge, A. S., Ellard, K. K., Paulk, A. C., Basu, I., Yousefi, A., **Zorowitz, S.**, … Eskandar, E. N. (2017). Treating refractory mental illness with closed-loop brain stimulation: Progress towards a patient-specific transdiagnostic approach. Experimental Neurology. http://doi.org/10.1016/j.expneurol.2016.07.021
  
 Klein, E., Goering, S., Gagne, J., Shea, C. V., Franklin, R., **Zorowitz, S.**, ... & Widge, A. S. (2016). Brain-computer interface-based control of closed-loop brain stimulation: attitudes and ethical considerations. Brain-Computer Interfaces, 3(3), 140-148.
  
