@@ -30,7 +30,7 @@ With Nathaniel Daw:
 With Michael Shvartsman & Mikio Aoi:
 * Simultaneous modeling of behavior and fMRI data using matrix-normal models and TensorFlow. 
 
-### Clinical Research Coordinator - MGH DARPA SUBNETS, Massachusetts General Hospital
+### Research Assistant - MGH DARPA SUBNETS, Martinos Center for Biomedical Imaging
 ##### June, 2014 - May, 2017
 * Devised hierarchical Bayesian model of decision making conflict, integrating both choice and reaction time data, for an approach/avoidance gambling task and applied the resulting subject-specific predictors to characterize conflict resolution in neural circuitry in fMRI & EEG datasets. 
 * Lead analyst on study investigating the neural correlates of diminished cautiousness during a Stroop-like task in patients undergoing deep-brain stimulation for major depressive disorder using source-localized EEG data. 
@@ -62,12 +62,12 @@ in players of a modified public goods game.
 * Performed literature reviews and assisted in preparing grant applications and IRB proposals
  
 ## Teaching
-### Lecturer - Intro to Python Workshop, [QMSS](http://www.qmss.columbia.edu/), Columbia University
+### Lecturer - Intro to Python Workshop, QMSS, Columbia University
 ##### June, 2017
 * Designed and taught a two-week (6 evening) Intro to Python for Data Science workshop for the Quantitative Methods in the Social Sciences Masters Program at Columbia University.
 * Workshop materials covered included core Python, matrix and DataFrame manipulation, machine learning, text processing, API calls and webscraping, and network analysis. [(Github)](https://github.com/szorowi1/qmss2017)
 
-### Lecturer - [Why & How Series](https://gate.nmr.mgh.harvard.edu/wiki/whynhow/index.php/Main_Page), Martinos Center 
+### Lecturer - Why & How Series, Martinos Center for Biomedical Imaging
 ##### November, 2016
 * Invited to present an Introduction to Scientific Python lecture as part of a tutorial lecture series.
 * Designed novel materials to introduce Python for neuroscience, including examples on statistics, visualization, and imaging data manipulation.
