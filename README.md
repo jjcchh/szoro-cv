@@ -6,23 +6,34 @@ Email: [szorowi1@gmail.com](mailto:szorowi1@gmail.com) | [zorowitz@princeton.edu
 
 ## Education
 ### Princeton University - Ph.D. Candidate in Neuroscience
-##### Beginning Fall 2017
-Supported by Centennial Fellowship
+##### September, 2017 - Present
+Supported by Centennial Fellowship 
 
 ### Johns Hopkins University - B.A. in Psychological & Brain Sciences
 ##### September, 2010 - May, 2014
 Cumulative GPA: 3.91, Phi Beta Kappa, General University Honors
 
 ## Coursework and Skills
-* Courses: Bayesian Data Analysis; Choice Behavior; Neuroeconomics; Social Network Analysis in Public Health Programs; Infectious Disease Dynamics: Theory and Computation 
+* Courses: Statistical Modeling and Analysis of Neural Data; Bayesian Data Analysis; Choice Behavior; Social Network Analysis in Public Health
 * Software: Stan, JAGS, Freesurfer, MNE, Psychtoolbox, Mechanical Turk
 * Languages: Python, R, Matlab, Unix
 
 ## Research
-### Clinical Research Coordinator - [MGH DARPA SUBNETS](https://transformdbs.partners.org/?q=transform-dbs), Massachusetts General Hospital
+### Research Rotations - Princeton Neuroscience Institute
+#### September, 2017 - Present
+With Yael Niv:
+* Re-analysis of dataset investigating the interplay of mood, reward valuation, and reinforcement learning using hierarchical Bayesian modeling with Stan. 
+
+With Nathaniel Daw:
+* Investigating applications of the successor representation in reinforcement learning to models of replay and rumination using simulation. 
+
+With Michael Shvartsman & Mikio Aoi:
+* Simultaneous modeling of behavior and fMRI data using matrix-normal models and TensorFlow. 
+
+### Clinical Research Coordinator - MGH DARPA SUBNETS, Massachusetts General Hospital
 ##### June, 2014 - May, 2017
-* Devised hierarchical Bayesian model of decision making conflict, integrating both choice and reaction time data, for an approach/avoidance gambling task and applied the resulting subject-specific predictors to characterize conflict resolution in neural circuitry in fMRI & EEG datasets. [(Github)](https://github.com/szorowi1/JNeurosci_ARC)
-* Lead analyst on study investigating the neural correlates of diminished cautiousness during a Stroop-like task in patients undergoing deep-brain stimulation for major depressive disorder using source-localized EEG data. [(Github)](https://github.com/szorowi1/EMOTE-afMSIT)
+* Devised hierarchical Bayesian model of decision making conflict, integrating both choice and reaction time data, for an approach/avoidance gambling task and applied the resulting subject-specific predictors to characterize conflict resolution in neural circuitry in fMRI & EEG datasets. 
+* Lead analyst on study investigating the neural correlates of diminished cautiousness during a Stroop-like task in patients undergoing deep-brain stimulation for major depressive disorder using source-localized EEG data. 
 * Adapted Bayesian state space models of associative learning to a reversal learning paradigm and demonstrated its efficacy in improving fMRI signal-to-noise ratio.
 * Created tutorials and other guides for lab members on numerous technical and statistical topics, including fMRI and M/EEG analysis, non-parametric permutation testing, and graph theory.
 
@@ -49,12 +60,6 @@ With John Kruschke:
 in players of a modified public goods game.
 * Learned to analyze collected data with Bayesian modeling using R and JAGS.
 * Performed literature reviews and assisted in preparing grant applications and IRB proposals
-
-### Research Assistant - Johns Hopkins Hospital
-##### July, 2011 - January, 2012
-With Pegah Touradji
-* Administered full battery of neuropsychological tests to patients at risk for early-onset dementia.
-* Assisted in participant recruitment, database management, literature reviews, and manuscript writing.
  
 ## Teaching
 ### Lecturer - Intro to Python Workshop, [QMSS](http://www.qmss.columbia.edu/), Columbia University
@@ -72,11 +77,6 @@ With Pegah Touradji
 * Volunteered twice as mentor for student (initials: KL) as part of the Harvard CCRC Summer Internship program.
 * Oversaw student KL in her efforts to analyze differences in EEG resting state spectral content in patients with DBS turned on and off.
 * Guided returned student KL in her efforts to apply per-trial estimates of decision conflict to EEG data from an approach-avoidance gambling task.
-
-### Study Consultant - Johns Hopkins University 
-##### September, 2013 - May, 2014
-* Coached six undergraduate students in effective academic habits through Office of Academic Advising.
-* Worked with students to improve organizational abilities, note-taking skills, schedule planning, and study habits.
 
 ## Publications
 Widge, A. S., **Zorowitz, S.**, Eskandar, E. N., Deckersbach, T., Miller, E. K., Dougherty, D. D. (2017). Internal Capsule Electrical Stimulation Enhances Cognitive Control and Prefrontal Cortex Function in Humans. Submitted.
