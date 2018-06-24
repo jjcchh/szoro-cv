@@ -19,16 +19,9 @@ Cumulative GPA: 3.91, Phi Beta Kappa, General University Honors
 * Languages: Python, R, Matlab, Unix
 
 ## Research
-### Research Rotations - Princeton Neuroscience Institute
+### PhD Research - Princeton Neuroscience Institute
 #### September, 2017 - Present
-With Yael Niv:
-* Re-analysis of dataset investigating the interplay of mood, reward valuation, and reinforcement learning using hierarchical Bayesian modeling with Stan. 
-
-With Nathaniel Daw:
-* Investigating applications of the successor representation in reinforcement learning to models of replay and rumination using simulation. 
-
-With Michael Shvartsman & Mikio Aoi:
-* Simultaneous modeling of behavior and fMRI data using matrix-normal models and TensorFlow. 
+Check back soon ;)
 
 ### Research Assistant - MGH DARPA SUBNETS, Martinos Center for Biomedical Imaging
 ##### June, 2014 - May, 2017
