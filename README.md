@@ -14,8 +14,8 @@ Supported by Centennial Fellowship
 Cumulative GPA: 3.91, Phi Beta Kappa, General University Honors
 
 ## Coursework and Skills
-* Courses: Statistical Modeling and Analysis of Neural Data; Bayesian Data Analysis; Choice Behavior; Social Network Analysis in Public Health
-* Software: Stan, JAGS, Freesurfer, MNE, Psychtoolbox, Mechanical Turk
+* Skills: Computational modeling, Bayesian data analysis, neuroimaging analysis (fMRI, M/EEG)
+* Software: Stan, Freesurfer, MNE, Psychtoolbox, Mechanical Turk
 * Languages: Python, R, Matlab, Unix
 
 ## Research
@@ -57,7 +57,7 @@ in players of a modified public goods game.
 ## Teaching
 ### Lecturer - Intro to Python Workshop, QMSS, Columbia University
 ##### June, 2017
-* Designed and taught a two-week (6 evening) Intro to Python for Data Science workshop for the Quantitative Methods in the Social Sciences Masters Program at Columbia University.
+* Designed and taught a two-week Intro to Python for Data Science workshop for the Quantitative Methods in the Social Sciences Masters Program at Columbia University.
 * Workshop materials covered included core Python, matrix and DataFrame manipulation, machine learning, text processing, API calls and webscraping, and network analysis. [(Github)](https://github.com/szorowi1/qmss2017)
 
 ### Lecturer - Why & How Series, Martinos Center for Biomedical Imaging
