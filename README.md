@@ -11,7 +11,7 @@ Reminders:
 
 To view CV locally:
 
-  jekyll serve
+	jekyll serve
 
 Use jekyll to build the last version of the cv:
 
