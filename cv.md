@@ -129,7 +129,7 @@ Lorince, J., **Zorowitz, S.**, Murdock, J., & Todd, P. M. (2014). Supertagger be
 ### Posters
 
 `2019`
-Bannett, D., Radulescu, A., **Zorowitz, S.**, Niv, Y. (2019). Assessing mood's effects on attention in value-based decision making. Poster to be presented at Society for Affective Science. Boston, Massachusetts.
+Bennett, D., Radulescu, A., **Zorowitz, S.**, Niv, Y. (2019). Assessing mood's effects on attention in value-based decision making. Poster to be presented at Society for Affective Science. Boston, Massachusetts.
 
 `2016`
 Widge, A. S., **Zorowitz, S.**, Afzal, A., Farnes, K., Paulk, A. C., Miller, E. K., Deckersbach, T., Cash, S. S., Dougherty, D. D. (2016). Deep Brain Stimulation of Striatal White Matter Alters Top-Down Control Signals in Cingulate and Prefrontal Cortices. Presented at the American College of Neuropsychopharmacology, Hollywood, Florida.
