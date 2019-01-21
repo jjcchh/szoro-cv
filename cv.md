@@ -18,7 +18,7 @@ Bayesian data analysis, cognitive modeling, neuroimaging analysis (fMRI, M/EEG)
 `Software`
 Stan, Freesurfer, MNE, PsychoPy, Psychtoolbox, jsPsych, Mechanical Turk
 
-`Language`
+`Languages`
 Python, R, Matlab, JavaScript, Unix
 
 ## Education
