@@ -100,7 +100,7 @@ __Intern Mentor - Harvard University__
 
 ### Journals
 `In Press`
-Widge, A. S., **Zorowitz, S.**, Basu, I., Paulk, A. C., Cash, S. S., Eskandar, E. N., Deckersbach, T., Miller, E. K., Dougherty, D. D. (in review). Deep Brain Stimulation of the Internal Capsule Enhances Human Cognitive Control and Prefrontal Cortex Function. Nature Communications.
+Widge, A. S., **Zorowitz, S.**, Basu, I., Paulk, A. C., Cash, S. S., Eskandar, E. N., Deckersbach, T., Miller, E. K., Dougherty, D. D. Deep Brain Stimulation of the Internal Capsule Enhances Human Cognitive Control and Prefrontal Cortex Function. Nature Communications.
 
 `2017`
 Widge, A. S., Ellard, K. K., Paulk, A. C., Basu, I., Yousefi, A., **Zorowitz, S.**, … Eskandar, E. N. (2017). Treating refractory mental illness with closed-loop brain stimulation: Progress towards a patient-specific transdiagnostic approach. Experimental Neurology. http://doi.org/10.1016/j.expneurol.2016.07.021
